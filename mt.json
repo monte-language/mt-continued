@@ -1,0 +1,6 @@
+{
+    "name": "continued",
+    "paths": ["."],
+    "entrypoint": "continued",
+    "dependencies": {}
+}
